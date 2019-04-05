@@ -1,4 +1,4 @@
-Iolssi_devops_uf
+Molssi_devops_uf
 ==============================
 [//]: # (Badges)
 [![Travis Build Status](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf.png)](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf)
