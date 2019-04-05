@@ -1,4 +1,4 @@
-molssi_devops_uf
+Iolssi_devops_uf
 ==============================
 [//]: # (Badges)
 [![Travis Build Status](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf.png)](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf)
@@ -6,6 +6,11 @@ molssi_devops_uf
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf/branch/master)
 
 A sample repository for MolSSI workshop at UF
+
+This repository is currently unde development.
+
+To do a developmental
+
 
 ### Copyright
 
