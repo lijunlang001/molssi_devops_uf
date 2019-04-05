@@ -7,7 +7,7 @@ Molssi_devops_uf
 
 A sample repository for MolSSI workshop at UF
 
-This repository is currently unde development.
+This repository is currently under development.
 
 To do a developmental install, type
 
