@@ -1,4 +1,4 @@
-Iolssi_devops_uf
+Molssi_devops_uf
 ==============================
 [//]: # (Badges)
 [![Travis Build Status](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf.png)](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf)
@@ -7,9 +7,11 @@ Iolssi_devops_uf
 
 A sample repository for MolSSI workshop at UF
 
-This repository is currently unde development.
+This repository is currently under development.
 
-To do a developmental
+To do a developmental install, type
+
+'pip install -e.'
 
 
 ### Copyright
