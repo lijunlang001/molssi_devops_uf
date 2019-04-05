@@ -9,7 +9,9 @@ A sample repository for MolSSI workshop at UF
 
 This repository is currently unde development.
 
-To do a developmental
+To do a developmental install, type
+
+'pip install -e.'
 
 
 ### Copyright
