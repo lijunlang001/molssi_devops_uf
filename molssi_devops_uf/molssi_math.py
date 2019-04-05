@@ -4,6 +4,8 @@ A sample repository for MolSSI workshop at UF
 
 Some math functions.
 """
+
+
 def mean(num_list):
     """
     calculate the mean/average ogf a list of numbers
@@ -20,6 +22,7 @@ def mean(num_list):
     """
     mean_list = sum(num_list) / len(num_list)
     return mean_list
+
 
 def canvas(with_attribution=True):
     """
